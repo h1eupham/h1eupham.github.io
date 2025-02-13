@@ -5,14 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Ngồi viết linh tinh"
-    url: /stupid-thing/
-
-  - title: "Tech"
-    url: /tech/
-  
-  - title: "English"
-    url: /learn-eng/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
